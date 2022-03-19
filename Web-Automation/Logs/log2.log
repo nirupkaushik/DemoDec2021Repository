@@ -1,0 +1,23 @@
+2022-03-13 23:20:08 INFO  Logger Output:20 - Browser Initiated
+2022-03-13 23:20:30 INFO  Logger Output:28 - Browser Launched Successfully
+2022-03-13 23:20:30 INFO  Logger Output:41 - Navigation Initiated
+2022-03-13 23:20:39 INFO  Logger Output:47 - URL Navigated
+2022-03-13 23:20:39 INFO  Logger Output:60 - Login Initiated
+2022-03-13 23:20:49 INFO  Logger Output:68 - Logged in Successfully
+2022-03-13 23:20:52 INFO  Logger Output:95 - Create Customer Initiated
+2022-03-13 23:21:09 INFO  Logger Output:109 - Customer Created 
+2022-03-13 23:21:09 INFO  Logger Output:122 - Delete Customer Initiated
+2022-03-13 23:21:17 INFO  Logger Output:132 - Customer Deleted
+2022-03-13 23:21:17 INFO  Logger Output:145 - Logout Initiated
+2022-03-13 23:21:26 INFO  Logger Output:152 - Logged Out Successfully
+2022-03-13 23:22:20 INFO  Logger Output:20 - Browser Initiated
+2022-03-13 23:22:34 INFO  Logger Output:28 - Browser Launched Successfully
+2022-03-13 23:22:34 INFO  Logger Output:41 - Navigation Initiated
+2022-03-13 23:22:41 INFO  Logger Output:47 - URL Navigated
+2022-03-13 23:22:41 INFO  Logger Output:60 - Login Initiated
+2022-03-13 23:22:47 INFO  Logger Output:68 - Logged in Successfully
+2022-03-13 23:22:50 INFO  Logger Output:95 - Create Customer Initiated
+2022-03-13 23:23:04 INFO  Logger Output:109 - Customer Created 
+2022-03-13 23:23:04 INFO  Logger Output:122 - Delete Customer Initiated
+2022-03-13 23:23:12 INFO  Logger Output:145 - Logout Initiated
+2022-03-13 23:23:16 INFO  Logger Output:152 - Logged Out Successfully

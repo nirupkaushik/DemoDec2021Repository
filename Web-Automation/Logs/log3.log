@@ -1,0 +1,12 @@
+2022-03-13 23:24:54 INFO  Logger Output:20 - Browser Initiated
+2022-03-13 23:25:11 INFO  Logger Output:28 - Browser Launched Successfully
+2022-03-13 23:25:11 INFO  Logger Output:41 - Navigation Initiated
+2022-03-13 23:25:20 INFO  Logger Output:47 - URL Navigated
+2022-03-13 23:25:20 INFO  Logger Output:60 - Login Initiated
+2022-03-13 23:25:26 INFO  Logger Output:68 - Logged in Successfully
+2022-03-13 23:25:29 INFO  Logger Output:95 - Create Customer Initiated
+2022-03-13 23:25:45 INFO  Logger Output:109 - Customer Created 
+2022-03-13 23:25:45 INFO  Logger Output:122 - Delete Customer Initiated
+2022-03-13 23:25:54 INFO  Logger Output:132 - Customer Deleted
+2022-03-13 23:25:54 INFO  Logger Output:145 - Logout Initiated
+2022-03-13 23:25:58 INFO  Logger Output:152 - Logged Out Successfully

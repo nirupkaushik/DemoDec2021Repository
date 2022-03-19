@@ -1,0 +1,16 @@
+2022-03-14 12:12:16 INFO  Logger Output:19 - Browser Initiated
+2022-03-14 12:12:30 INFO  Logger Output:27 - Browser Launched Successfully
+2022-03-14 12:12:30 INFO  Logger Output:40 - Navigation Initiated
+2022-03-14 12:12:42 INFO  Logger Output:46 - URL Navigated
+2022-03-14 12:12:42 INFO  Logger Output:59 - Login Initiated
+2022-03-14 12:12:48 INFO  Logger Output:67 - Logged in Successfully
+2022-03-14 12:12:51 INFO  Logger Output:94 - Create Customer Initiated
+2022-03-14 12:13:05 INFO  Logger Output:108 - Customer Created 
+2022-03-14 12:13:05 INFO  Logger Output:121 - Create Project Initiated
+2022-03-14 12:13:24 INFO  Logger Output:139 - Project Created
+2022-03-14 12:13:24 INFO  Logger Output:152 - Modify Project Initiated
+2022-03-14 12:13:47 INFO  Logger Output:170 - Project Modified
+2022-03-14 12:13:47 INFO  Logger Output:183 - Delete Project Initiated
+2022-03-14 12:13:59 INFO  Logger Output:208 - Delete Customer Initiated
+2022-03-14 12:14:07 INFO  Logger Output:231 - Logout Initiated
+2022-03-14 12:14:11 INFO  Logger Output:238 - Logged Out Successfully

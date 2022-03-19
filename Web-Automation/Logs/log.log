@@ -1,0 +1,9 @@
+2022-03-13 21:01:27 INFO  Logger Output:21 - Browser Initiated
+2022-03-13 21:01:53 INFO  Logger Output:41 - Navigation Initiated
+2022-03-13 21:02:18 INFO  Logger Output:43 - URL Navigated
+2022-03-13 21:02:18 INFO  Logger Output:56 - Login Initiated
+2022-03-13 21:02:25 INFO  Logger Output:61 - Logged in Successfully
+2022-03-13 21:02:25 INFO  Logger Output:86 - Create User Initiated
+2022-03-13 21:02:44 INFO  Logger Output:100 - User Created
+2022-03-13 21:02:44 INFO  Logger Output:113 - Delete User Initiated
+2022-03-13 21:02:45 INFO  Logger Output:136 - Logout Initiated

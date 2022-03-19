@@ -1,0 +1,41 @@
+2022-03-13 22:16:12 INFO  Logger Output:22 - Browser Initiated
+2022-03-13 22:16:33 INFO  Logger Output:42 - Navigation Initiated
+2022-03-13 22:16:50 INFO  Logger Output:48 - URL Navigated
+2022-03-13 22:16:50 INFO  Logger Output:61 - Login Initiated
+2022-03-13 22:16:59 INFO  Logger Output:69 - URL Navigated
+2022-03-13 22:16:59 INFO  Logger Output:70 - Logged in Successfully
+2022-03-13 22:16:59 INFO  Logger Output:95 - Create User Initiated
+2022-03-13 22:17:09 INFO  Logger Output:122 - Delete User Initiated
+2022-03-13 22:17:09 INFO  Logger Output:145 - Logout Initiated
+2022-03-13 22:40:58 INFO  Logger Output:21 - Browser Initiated
+2022-03-13 22:41:24 INFO  Logger Output:42 - Navigation Initiated
+2022-03-13 22:41:33 INFO  Logger Output:48 - URL Navigated
+2022-03-13 22:41:33 INFO  Logger Output:61 - Login Initiated
+2022-03-13 22:41:43 INFO  Logger Output:69 - Logged in Successfully
+2022-03-13 22:41:43 INFO  Logger Output:94 - Create User Initiated
+2022-03-13 22:42:01 INFO  Logger Output:124 - Delete User Initiated
+2022-03-13 22:42:10 INFO  Logger Output:137 - User Deleted
+2022-03-13 22:42:10 INFO  Logger Output:150 - Logout Initiated
+2022-03-13 22:42:18 INFO  Logger Output:157 - Logged Out Successfully
+2022-03-13 22:45:41 INFO  Logger Output:21 - Browser Initiated
+2022-03-13 22:46:01 INFO  Logger Output:42 - Navigation Initiated
+2022-03-13 22:46:11 INFO  Logger Output:48 - URL Navigated
+2022-03-13 22:46:11 INFO  Logger Output:61 - Login Initiated
+2022-03-13 22:46:18 INFO  Logger Output:69 - Logged in Successfully
+2022-03-13 22:46:18 INFO  Logger Output:94 - Create User Initiated
+2022-03-13 22:46:35 INFO  Logger Output:124 - Delete User Initiated
+2022-03-13 22:46:43 INFO  Logger Output:137 - User Deleted
+2022-03-13 22:46:43 INFO  Logger Output:150 - Logout Initiated
+2022-03-13 22:46:47 INFO  Logger Output:157 - Logged Out Successfully
+2022-03-13 22:48:17 INFO  Logger Output:21 - Browser Initiated
+2022-03-13 22:48:36 INFO  Logger Output:29 - Browser Launched Successfully
+2022-03-13 22:48:36 INFO  Logger Output:42 - Navigation Initiated
+2022-03-13 22:48:56 INFO  Logger Output:48 - URL Navigated
+2022-03-13 22:48:56 INFO  Logger Output:61 - Login Initiated
+2022-03-13 22:49:04 INFO  Logger Output:69 - Logged in Successfully
+2022-03-13 22:49:04 INFO  Logger Output:94 - Create User Initiated
+2022-03-13 22:49:20 INFO  Logger Output:111 - User Created
+2022-03-13 22:49:20 INFO  Logger Output:124 - Delete User Initiated
+2022-03-13 22:49:31 INFO  Logger Output:137 - User Deleted
+2022-03-13 22:49:31 INFO  Logger Output:150 - Logout Initiated
+2022-03-13 22:49:38 INFO  Logger Output:157 - Logged Out Successfully
